@@ -17,7 +17,7 @@ class Orders extends Component {
         },
         {
             name: 'Lemon Bar Base',
-            value:'BASE.lemonbarBase'
+            value:'BASE.lemonBase'
         },
         {
           name: 'Chocolate Base',
