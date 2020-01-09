@@ -1,0 +1,83 @@
+.App {
+  text-align: center; 
+}
+
+#orders {
+  border: 3px solid #ddd;
+  width: 50%;
+}
+
+#orders td, #orders th {
+  border: 1px solid #ddd;
+  padding: 8px; 
+}
+
+.active {
+  border: 2px solid red;
+}
+
+body {
+  background-color: aliceblue; 
+  background-image: url("1.jpg");
+}
+
+table {
+  background-color: pink; 
+}
+
+.objects {
+  margin-top: 50px;
+  margin-left: 200px;
+  color: darkorchid;
+  height: 0px;
+  width: 40%; 
+}
+
+.summary {
+    margin-top:0px;
+    padding:10px;
+    float:right;
+    color: darkorchid;;
+    width: 42%; 
+}
+
+.zui-table {
+  border: solid 1px #DDEEEE;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  height: 50px;
+  table-layout: fixed; 
+}
+.zui-table thead th {
+  background-color: #DDEFEF;
+  border: solid 1px #DDEEEE;
+  color: #336B6B;
+  padding: 10px;
+  text-align: left;
+  text-shadow: 1px 1px 1px #fff;
+}
+.zui-table tbody td {
+  border: solid 1px #DDEEEE;
+  background-color: #DDEFEF;
+  color: #333;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.popup {  
+  position: fixed;
+  text-align: center;   
+  width: 50%;  
+  height: 40%;  
+  top: 0;  
+  left: 0;  
+  right: 0;  
+  bottom: 0;  
+  margin: auto;  
+  background-color: white; 
+}  
