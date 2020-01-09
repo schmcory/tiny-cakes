@@ -3,7 +3,7 @@
 This is an implementation of two prototype screens for Tinycakes, LLC.
 The application was built using create-react-app.
 
-Please navigate to the client folder (tiny-cakes-master > client) and run npm install and then npm start. 
+Please navigate to the client folder (tiny-cakes-master > client) and run npm install and then npm start. You might also have to add permissions to access (chmod -R 777 tiny-cakes-master). 
 
 ### The Cupcake Customization Screen
 
