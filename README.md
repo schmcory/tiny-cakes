@@ -3,7 +3,7 @@
 This is an implementation of two prototype screens for Tinycakes, LLC.
 The application was built using create-react-app.
 
-Please navigate to the client folder (carrierdirect-frontend-assessment > client) and run npm install and then npm start. 
+Please navigate to the client folder (tiny-cakes-master > client) and run npm install and then npm start. 
 
 ### The Cupcake Customization Screen
 
